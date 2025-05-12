@@ -205,14 +205,14 @@ hr {
   margin: 1rem 0;
 }
 
-.top_news_right div h3 {
+.top_news_right div h2 {
   color: var(--Off-white);
   margin-bottom: 1rem;
   transition: color 0.3s ease;
   cursor: pointer;
 }
 
-.top_news_right div h3:hover {
+.top_news_right div h2:hover {
   color: var(---Soft-orange);
 }
 
